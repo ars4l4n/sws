@@ -81,7 +81,7 @@
 #define SNM_CONSOLE_FILE           "%s\\reaconsole_customcommands.txt"
 #define SNM_REAPER_EXE_FILE        "%s\\reaper.exe"
 #define SNM_FONT_NAME              "MS Shell Dlg"
-#define SNM_FONT_HEIGHT            14
+#define SNM_FONT_HEIGHT            22
 #define SNM_DYN_FONT_NAME          "Arial" // good default for UTF8
 #define SNM_1PIXEL_Y               1
 #define SNM_GUI_TOP_H              36
